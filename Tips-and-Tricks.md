@@ -19,4 +19,4 @@
 1. Use wildcards in Find and Replace
 1. Learning Tools (View > Immersive)
 1. Show/Hide ¶
-
+1. Dark mode (Black Background; Print)
