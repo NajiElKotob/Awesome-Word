@@ -20,3 +20,4 @@
 1. Learning Tools (View > Immersive)
 1. Show/Hide ¶
 1. Dark mode (Black Background; Print)
+1. Transform to Webpage (Office 365)
