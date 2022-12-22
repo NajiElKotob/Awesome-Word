@@ -21,3 +21,4 @@
 1. Show/Hide ¶
 1. Dark mode (Black Background; Print)
 1. Transform to Webpage (Office 365)
+1. Reset default template - %USERPROFILE%\AppData\Roaming\Microsoft\Templates
