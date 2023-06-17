@@ -23,3 +23,4 @@
 1. Transform to Webpage (Office 365)
 1. Reset default template - %USERPROFILE%\AppData\Roaming\Microsoft\Templates
 1. Night mode
+1. 1234 -> Select and F9 -> {=1234\*cardtext} -> Update Field (F9) (Less than 1M)
