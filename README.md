@@ -15,7 +15,7 @@
 * [Quick Start](https://support.office.com/en-us/article/create-a-document-in-word-aafc163a-3a06-45a9-b451-cb7250dcbaa1?wt.mc_id=otc_word) - Create, Save, Edit and Collaborate
 * [Write and Edit](https://support.office.com/en-us/article/add-and-edit-text-ed1e3147-a846-41ca-8087-49e324cb50bd?wt.mc_id=otc_word) - Edit, Find, Replace, Word Count and Manage Hyperlinks.
 * [Format Text](https://support.office.com/en-us/article/add-and-format-text-2e76a31b-a6d6-4b4e-95c2-fb780e3ac8d3?wt.mc_id=otc_word) - Format, List, Styles and Themes. 
-* [Lay out pages](https://support.office.com/en-us/article/change-margins-da21a474-99d8-4e54-b12d-a8a14ea7ce02?wt.mc_id=otc_word) - Margins, Columns, Orientation, Borders, Header/Footer, Page Break, Page Number and Tables.
+* [Pages and Layout](https://support.office.com/en-us/article/change-margins-da21a474-99d8-4e54-b12d-a8a14ea7ce02?wt.mc_id=otc_word) - Margins, Columns, Orientation, Borders, Header/Footer, Page Break, Page Number and Tables.
 * [Insert tables, pictures, and watermarks](https://support.office.com/en-us/article/insert-a-table-a138f745-73ef-4879-b99a-2f3d38be612a?wt.mc_id=otc_word) - Table, Pictures, Icons, WordArts and Watermark.
 * [Save and print](https://support.office.com/en-us/article/save-a-document-b7f55d8c-d714-4892-8fde-853a82419027?wt.mc_id=otc_word) - Save, Print, Envelop, Labels and Mailing List.
 * [Share and coauthor](https://support.office.com/en-us/article/share-a-document-d39f3cd8-0aa0-412f-9a35-1abba926d354?wt.mc_id=otc_word) - Share, Collaborate, Comment and Track.
