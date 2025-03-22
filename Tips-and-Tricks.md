@@ -3,7 +3,7 @@
 1. Tell me what you want to do 
 1. Quick Access Toolbar (Add/Remove/Arrange/Relocate)
 1. CTRL + ALT + Space => Read Aloud
-1. Dummy Text (rand and lorem functions)
+1. Dummy Text (rand, rand.old and lorem functions)
 1. Select Text (Word, Paragraph, Line; Copy, Cut)
 1. Calculate command
 1. Auto-correct (eg nk -> Naji El Kotob)
