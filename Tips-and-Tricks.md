@@ -15,7 +15,7 @@
 1. Split-Window (View > Window), scrolling and zoom
 1. Editing the custom dictionary (Options > Proofing)
 1. Spike (Ctrl-F3 in Windows or Command-F3 on a Mac for cut and Ctrl-Shift-F3 or Command-Shift-F3 for paste) - The Spike is an extended clipboard feature of Microsoft Word.
-1. Reveal formatting...
+1. Reveal formatting (Shift + F1)
 1. Embedding fonts
 1. Use wildcards in Find and Replace
 1. Learning Tools (View > Immersive)
