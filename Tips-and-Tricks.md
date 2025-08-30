@@ -28,3 +28,4 @@
 1. Crop Marks (Options > Advanced > Show document content)
 1. Border Line (---, ***, ___, ===)
 1. 🪟 + . = emojis
+1. CTRL + ⬅️ (Backspace)
